@@ -1,14 +1,23 @@
-Hi there, welcome to my Github 👋
-My name is Anderson Tundisi, I am from Santos - SP, Brazil.
+### Hi there 👋, Ola! Me chamo, Anderson Tundisi!
+#### Desenvolvedor FullStack
+Minhas áreas de aprendizado Java, Kotlin, Spring Boot, MySQL, Docker, HTML, CSS e JS.
 
-Click to see my Github stats. 🔭
-Skills in improvement:
-My Skills
-Java, Kotlin, Spring, Git, Github, Gradle, Maven, MySql, Docker, Html, CSS, and JavaScrpit.
+Skills: JAVA / KOTLIN / MySQL / DOCKER / HTML / CSS / JS
+<img src='https://camo.githubusercontent.com/9fee40bb9fca496216895d8cd810bb080c7b215ee1a0b8bab83fce6440595038/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c6b6f746c696e2c737072696e672c706f73746d616e2c6769742c6769746875622c677261646c652c6d6176656e2c6d7973716c2c646f636b65722c68746d6c2c6373732c6a73267468656d653d6c69676874' alt='logotipos de linguagens de programação>
 
-Integrated development environment (IDE):
-My Skills
-IntelliJ IDEA, Eclipse IDE and Visual Studio Code.
 
-Dev. Anderson Tundisi
-  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndersonTundisi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/andersontundisi//)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonTundisi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonTundisi&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AndersonTundisi)  
+
+![GitHub metrics](https://metrics.lecoq.io/AndersonTundisi)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=AndersonTundisi)  
+
+![Profile views](https://gpvc.arturio.dev/AndersonTundisi)  
