@@ -1,4 +1,4 @@
-### Hi there 👋, Ola! Me chamo, Anderson Tundisi!
+###  Ola!👋 Me chamo, Anderson Tundisi!
 #### Desenvolvedor FullStack
 Minhas áreas de aprendizado Java, Kotlin, Spring Boot, MySQL, Docker, HTML, CSS e JS.
 
