@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there, welcome to my Github 👋
+My name is Anderson Tundisi, I am from Santos - SP, Brazil.
 
-<!--
-**AndersonTundisi/AndersonTundisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Click to see my Github stats. 🔭
+Skills in improvement:
+My Skills
+Java, Kotlin, Spring, Git, Github, Gradle, Maven, MySql, Docker, Html, CSS, and JavaScrpit.
 
-Here are some ideas to get you started:
+Integrated development environment (IDE):
+My Skills
+IntelliJ IDEA, Eclipse IDE and Visual Studio Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dev. Anderson Tundisi
+  
