@@ -3,7 +3,6 @@
 Minhas áreas de aprendizado Java, Kotlin, Spring Boot, MySQL, Docker, HTML, CSS e JS.
 
 Skills: JAVA / KOTLIN / MySQL / DOCKER / HTML / CSS / JS
-<img src='https://camo.githubusercontent.com/9fee40bb9fca496216895d8cd810bb080c7b215ee1a0b8bab83fce6440595038/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c6b6f746c696e2c737072696e672c706f73746d616e2c6769742c6769746875622c677261646c652c6d6176656e2c6d7973716c2c646f636b65722c68746d6c2c6373732c6a73267468656d653d6c69676874' alt='logotipos de linguagens de programação'>
 
 Integrated development environment (IDE):
 
