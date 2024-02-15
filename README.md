@@ -10,8 +10,6 @@ Minhas áreas de aprendizado UX, UI, Java, Kotlin, Spring Boot, MySQL, Docker, H
 
 Skills: UX / UI / HTML / CSS / JS / JAVA / KOTLIN / MySQL / DOCKER 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndersonTundisi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andersontundisi)
-
 ## Hobbies
 
 - **Tempo em Família:** Valorizo imensamente o tempo que passo com minha família. Seja compartilhando momentos juntos, desfrutando de atividades ao ar livre ou simplesmente relaxando em casa, esses momentos são preciosos para mim.
@@ -21,6 +19,8 @@ Skills: UX / UI / HTML / CSS / JS / JAVA / KOTLIN / MySQL / DOCKER
 ## Contato
 
 Estou sempre aberto a novas conexões e oportunidades. Se você gostaria de discutir projetos, ideias ou simplesmente trocar experiências, sinta-se à vontade para entrar em contato comigo por e-mail: [astundisi@gmail.com](mailto:astundisi@gmail.com).
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndersonTundisi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andersontundisi)
 
 Vamos criar algo incrível juntos!
 SUCESSO SEMPRE!
