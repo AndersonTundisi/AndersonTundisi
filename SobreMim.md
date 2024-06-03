@@ -1,4 +1,4 @@
-Olá! Sou Anderson Tundisi, um entusiasta apaixonado por design e tecnologia. Com 50 anos de idade, estou atualmente em uma emocionante jornada de transição de carreira, buscando novas oportunidades de aprendizado e desenvolvimento para explorar horizontes inexplorados.
+Olá! Sou Anderson Tundisi, um entusiasta apaixonado por design e tecnologia. Com 51 anos de idade, estou atualmente em uma emocionante jornada de transição de carreira, buscando novas oportunidades de aprendizado e desenvolvimento para explorar horizontes inexplorados.
 
 ## Interesses
 
@@ -6,9 +6,9 @@ Olá! Sou Anderson Tundisi, um entusiasta apaixonado por design e tecnologia. Co
 - **Aprendizado Contínuo:** Acredito firmemente na importância do aprendizado contínuo. Estou constantemente buscando novas oportunidades de aprendizado, seja por meio de cursos, workshops ou experiências práticas.
 - **Transição de Carreira:** Estou aberto a novas possibilidades e desafios que surgem durante minha transição de carreira. Estou comprometido em expandir meu conhecimento e habilidades para alcançar meus objetivos.
 
-Minhas áreas de aprendizado UX, UI, Java, Kotlin, Spring Boot, MySQL, Docker, HTML, CSS e JS.
+Minhas áreas de aprendizado UX, UI, Java, Kotlin, Spring Boot, MySQL, Docker, HTML, CSS e JS, Python.
 
-Skills: UX / UI / HTML / CSS / JS / JAVA / KOTLIN / MySQL / DOCKER 
+Skills: UX / UI / HTML / CSS / JS / PYTHON / JAVA / KOTLIN / MySQL / DOCKER 
 
 ## Hobbies
 
